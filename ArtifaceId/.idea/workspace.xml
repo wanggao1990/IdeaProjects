@@ -12,6 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="esTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ElasticSearchTest/esTest.java">
@@ -32,6 +33,174 @@
         </entry>
       </file>
     </leaf>
+=======
+    <splitter split-orientation="horizontal" split-proportion="0.5994569">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="EncapsulationTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/RunEncap/EncapsulationTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="780">
+                  <caret line="39" column="30" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="30" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Animals.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pkgTest/Animals.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="40">
+                  <caret line="2" selection-start-line="2" selection-end-line="2" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GreetingServer.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/socketPkg/GreetingServer.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="100">
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="JavaDocTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/JavaDocTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="600">
+                  <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Java8Tester.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/Java8Tester.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="880">
+                  <caret line="49" column="5" selection-start-line="43" selection-start-column="2" selection-end-line="49" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="HttpClient.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/HttpTest/HttpClient.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="363">
+                  <caret line="118" column="5" lean-forward="true" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="esTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ElasticSearchTest/esTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="80">
+                  <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="220">
+                  <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GenericMethodTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/GenericMethodTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2160">
+                  <caret line="113" column="7" selection-start-line="113" selection-start-column="7" selection-end-line="113" selection-end-column="7" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Comparable.java" pinned="false" current-in-tab="false">
+            <entry file="jar://D:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Comparable.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1440">
+                  <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="Chinese.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/Chinese.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1060">
+                  <caret line="59" selection-start-line="59" selection-end-line="59" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="StringDemo.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/StringDemo.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1960">
+                  <caret line="116" column="75" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="75" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DateTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/DateTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1760">
+                  <caret line="91" selection-start-line="90" selection-start-column="5" selection-end-line="91" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/AbstractPkg/Employee.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="100">
+                  <caret line="5" selection-start-line="5" selection-end-line="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GreetingClient.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/socketPkg/GreetingClient.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="22">
+                  <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,7 +285,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,6 +313,7 @@
               <item name="ArtifaceId" type="b2602c69:ProjectViewProjectNode" />
               <item name="ArtifaceId" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -154,14 +329,20 @@
               <item name="ArtifaceId" type="b2602c69:ProjectViewProjectNode" />
               <item name="ArtifaceId" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+=======
+      <pane id="Scope" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,9 +362,12 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+<<<<<<< HEAD
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\ArtifaceId\src\main\java" />
     </key>
+=======
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -203,6 +387,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="GenericTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GenericTest" />
@@ -219,6 +404,18 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+=======
+  <component name="RunManager" selected="Application.HttpClient">
+    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Box" />
+      <module name="JavaLearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="GenericTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericTest" />
+      <module name="JavaLearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
     </configuration>
     <configuration name="HttpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HttpTest.HttpClient" />
@@ -236,8 +433,13 @@
       <module name="JavaLearning" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Puppy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Puppy" />
+=======
+    <configuration name="MaximumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumTest" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
       <module name="JavaLearning" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -283,6 +485,7 @@
       <listeners />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.GenericTest" />
       <item itemvalue="Application.Java8Tester" />
       <item itemvalue="Application.HttpClient" />
@@ -296,6 +499,21 @@
         <item itemvalue="Application.HttpClient" />
         <item itemvalue="Application.Java8Tester" />
         <item itemvalue="Application.GenericTest" />
+=======
+      <item itemvalue="Application.MaximumTest" />
+      <item itemvalue="Application.Box" />
+      <item itemvalue="Application.GenericTest" />
+      <item itemvalue="Application.Java8Tester" />
+      <item itemvalue="Application.HttpClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HttpClient" />
+        <item itemvalue="Application.Java8Tester" />
+        <item itemvalue="Application.GenericTest" />
+        <item itemvalue="Application.Box" />
+        <item itemvalue="Application.MaximumTest" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
       </list>
     </recent_temporary>
   </component>
@@ -317,12 +535,19 @@
       <workItem from="1532331317725" duration="4668000" />
       <workItem from="1532597759020" duration="94000" />
       <workItem from="1532598067721" duration="2743000" />
+<<<<<<< HEAD
       <workItem from="1532674474602" duration="654000" />
+=======
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="62742000" />
+=======
+    <option name="totallyTimeSpent" value="62088000" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -335,10 +560,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="92" width="1765" height="948" extended-state="0" />
+<<<<<<< HEAD
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32839507" />
+=======
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32893288" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
       <window_info anchor="bottom" id="Messages" order="7" weight="0.36165577" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="1" />
@@ -347,6 +578,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32946002" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26666668" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.19629629" />
       <window_info id="Capture Tool" order="2" />
@@ -354,6 +586,14 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17888562" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32893288" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15185185" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1969197" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1771261" />
+      <window_info anchor="right" id="Database" order="3" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
       <window_info id="Structure" order="6" side_tool="true" weight="0.1652452" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -365,6 +605,10 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+<<<<<<< HEAD
+=======
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32893288" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,6 +620,16 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
+<<<<<<< HEAD
+=======
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Puppy.java</url>
+          <line>9</line>
+          <properties class="Puppy">
+            <option name="EMULATED" value="true" />
+          </properties>
+        </line-breakpoint>
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/StringDemo.java</url>
           <line>67</line>
@@ -417,6 +671,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/Puppy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExtAndImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1460">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
     <entry file="file://$PROJECT_DIR$/src/main/java/Chinese.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -557,6 +828,16 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/Puppy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
     <entry file="file://$PROJECT_DIR$/src/main/java/DateTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1760">
@@ -642,7 +923,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RunEncap/EncapsulationTest.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state>
+=======
+        <state relative-caret-position="780">
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
           <caret line="39" column="30" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="30" />
         </state>
       </provider>
@@ -699,26 +984,41 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/Java8Tester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="49" column="5" selection-start-line="43" selection-start-column="2" selection-end-line="49" selection-end-column="5" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/GenericMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="113" column="7" selection-start-line="113" selection-start-column="7" selection-end-line="113" selection-end-column="7" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/socketPkg/GreetingClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java8Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="49" column="5" selection-start-line="43" selection-start-column="2" selection-end-line="49" selection-end-column="5" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/testJavacJava/HelloWorld.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -733,12 +1033,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="113" column="7" selection-start-line="113" selection-start-column="7" selection-end-line="113" selection-end-column="7" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/socketPkg/GreetingClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/Puppy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -750,6 +1057,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
           <caret line="118" column="5" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/HttpTest/HttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="118" column="5" lean-forward="true" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -758,8 +1071,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ElasticSearchTest/esTest.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="40">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+=======
+        <state relative-caret-position="80">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
         </state>
       </provider>
     </entry>

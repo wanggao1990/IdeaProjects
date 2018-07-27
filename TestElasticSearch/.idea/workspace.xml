@@ -33,9 +33,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
+=======
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,6 +76,12 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,12 +148,19 @@
       <workItem from="1532597855684" duration="60000" />
       <workItem from="1532598007343" duration="19000" />
       <workItem from="1532598046938" duration="18000" />
+<<<<<<< HEAD
       <workItem from="1532674400768" duration="672000" />
+=======
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="769000" />
+=======
+    <option name="totallyTimeSpent" value="97000" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
   </component>
   <component name="ToolWindowManager">
     <frame x="74" y="34" width="1765" height="948" extended-state="0" />
@@ -162,7 +178,11 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25865102" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25571847" />
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -200,8 +220,11 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/../ArtifaceId/src/main/java/testJavacJava/HelloWorld.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+=======
+>>>>>>> a39a110e3b8f76cd86eae8d2cd35456d76faa9d3
   </component>
 </project>
