@@ -33,6 +33,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,9 +73,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,11 +139,12 @@
       <workItem from="1532597855684" duration="60000" />
       <workItem from="1532598007343" duration="19000" />
       <workItem from="1532598046938" duration="18000" />
+      <workItem from="1532674400768" duration="672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97000" />
+    <option name="totallyTimeSpent" value="769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="74" y="34" width="1765" height="948" extended-state="0" />
@@ -161,7 +162,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25571847" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25865102" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -198,6 +199,9 @@
           <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ArtifaceId/src/main/java/testJavacJava/HelloWorld.class">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
