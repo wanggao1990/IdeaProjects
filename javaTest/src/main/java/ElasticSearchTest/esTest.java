@@ -39,7 +39,7 @@ public class esTest {
         JestClient client = factory.getObject();
 
 
-        String query = jsonStringThatMagicallyAppears;
+        String query = "jsonStringThatMagicallyAppears";
 
         Search search = new Search.Builder(query)
                 .addIndex("library")

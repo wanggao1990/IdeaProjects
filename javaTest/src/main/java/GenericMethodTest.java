@@ -110,6 +110,10 @@ class Box<T> {
 /**
  *   1、类型通配符一般是使用?代替具体的类型参数。例如 List<?> 在逻辑上是List<String>,List<Integer> 等
  *          所有List<具体类型实参>的父类。
+ *
+ *    <? extends T>和<? super T>的区别
+ *          <? extends T>表示该通配符所代表的类型是T类型的子类。
+ *          <? super T>表示该通配符所代表的类型是T类型的父类。
  */
  class GenericTest {
 
